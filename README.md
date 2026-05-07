@@ -116,3 +116,8 @@ I’m currently focused on improving my engineering skills, building impactful p
 > “I believe technology is most powerful when it solves real problems and inspires new possibilities.”
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MacJezzl1/MacJezzl1/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
