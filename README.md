@@ -1,49 +1,153 @@
-# Hi 👋, I'm Muhluri Mugwambana
+<div align="center">
 
-### A developer
+# Muhluri Mugwambana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MacJezzl1&label=Profile views&color=0e75b6&style=flat" alt="MacJezzl1" /> </p>
+### AI Engineer • Blockchain Developer • Founder of CapeChain Labs
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MacJezzl1" alt="MacJezzl1" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C52D&center=true&vCenter=true&width=700&lines=Building+GenX+Blockchain;Creating+AI-Powered+Systems;Linux+Developer+%7C+Web3+Builder;Future+Software+Engineer" />
 
-- 🔭 I'm currently working on **Building next-generation AI and blockchain technologies through CapeChain Labs and the GenX blockchain ecosystem.
-**
+<br>
 
-- 🌱 I'm currently learning **Advanced software engineering, AI systems, blockchain architecture, and scalable backend development.
-**
+<img src="https://komarev.com/ghpvc/?username=MacJezzl1&label=Profile%20Views&color=yellow&style=for-the-badge" />
 
-- 👯 I'm looking to collaborate on **Open-source AI tools, blockchain innovation, developer platforms, and futuristic tech projects.**
+</div>
 
-- 🤝 I'm looking for help with **Scaling GenX, growing a strong developer community, and connecting with visionary builders.**
+---
 
-- 💬 Ask me about **AI, blockchain, crypto ecosystems, Linux, software development, and startup building.**
+# 🚀 About Me
 
-- 📫 How to reach me **mcjezzl@gmail.com**
+```yaml
+Name: Muhluri Mugwambana
+Location: South Africa 🇿🇦
+Role: Founder @ CapeChain Labs
+Main Focus: AI + Blockchain + Software Engineering
+Current Project: GenX Blockchain
+```
 
-- ⚡ Fun fact **I enjoy building futuristic systems and turning impossible ideas into real technology.**
+I’m passionate about building futuristic systems that combine artificial intelligence, blockchain, automation, and scalable software engineering.
 
-- 👨‍💻 All of my projects are available at **[https://www.bing.com/ck/a?!&&p=19ce55905c80c88803547c21bde45fc2bff8ea953df176e6a7c13a8e6ecce19cJmltdHM9MTc3ODExMjAwMA&ptn=3&ver=2&hsh=4&fclid=19087292-64a3-6e79-0181-65d7656a6fa2&psq=http.macjezzl&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9odHRwcy5tYWNqZXp6bC8](https://www.bing.com/ck/a?!&&p=19ce55905c80c88803547c21bde45fc2bff8ea953df176e6a7c13a8e6ecce19cJmltdHM9MTc3ODExMjAwMA&ptn=3&ver=2&hsh=4&fclid=19087292-64a3-6e79-0181-65d7656a6fa2&psq=http.macjezzl&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9odHRwcy5tYWNqZXp6bC8)**
+Currently focused on developing **GenX**, a next-generation blockchain ecosystem designed for creators, developers, and future digital economies.
 
-- 📝 I regularly write articles on **[https://medium.com/@innovex_blockchain_solutions](https://medium.com/@innovex_blockchain_solutions)**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1DtJyqaSo9z_2dGBHBGOPeMmWyzlZKC4s/view?usp=drivesdk](https://drive.google.com/file/d/1DtJyqaSo9z_2dGBHBGOPeMmWyzlZKC4s/view?usp=drivesdk)**
+# 🧠 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MacJezzl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MacJezzl1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Muhluri Mugwambana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhluri Mugwambana" height="30" width="40" /></a>
-<a href="https://fb.com/mac jezzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mac jezzl" height="30" width="40" /></a>
-<a href="https://instagram.com/https.macjezzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.macjezzl" height="30" width="40" /></a>
-<a href="https://medium.com/Innovex Blockchain Solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Innovex Blockchain Solutions" height="30" width="40" /></a>
-<a href="https://youtube.com/macjezzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="macjezzl" height="30" width="40" /></a>
-</p>
+* 🔭 Building the GenX Blockchain ecosystem
+* 🌱 Learning advanced backend architecture & AI systems
+* 🤝 Looking to collaborate on open-source and Web3 projects
+* 💬 Ask me about Linux, AI, crypto, backend development & startups
+* ⚡ Fun fact: I enjoy turning impossible ideas into real technology
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jasmine" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/karma" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="karma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MacJezzl1&show_icons=true&locale=en&layout=compact" alt="MacJezzl1" /></p>
+# 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MacJezzl1&show_icons=true&locale=en" alt="MacJezzl1" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MacJezzl1&" alt="MacJezzl1" /></p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,linux,docker,git,github,mongodb,mysql,firebase,java,rust,flutter,aws,bash,vscode,figma" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MacJezzl1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacJezzl1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MacJezzl1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MacJezzl1&theme=algolia&no-frame=true&row=1&margin-w=15" />
+
+</div>
+
+---
+
+# 🚀 Featured Vision
+
+## 🧠 GenX Blockchain
+
+A creator-first blockchain ecosystem focused on:
+
+* Ultra-low fees
+* AI integrations
+* NFT infrastructure
+* Meme coin creation
+* Developer freedom
+* Future decentralized applications
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MacJezzl1">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/https.macjezzl">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://youtube.com">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="mailto:mcjezzl@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MacJezzl1&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MacJezzl1/MacJezzl1/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧠 Philosophy
+
+<div align="center">
+
+> “The future belongs to builders who create what others think is impossible.”
+
+</div>
 
