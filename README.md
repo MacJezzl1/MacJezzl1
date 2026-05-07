@@ -1,10 +1,10 @@
 <div align="center">
 
-# Muhluri Mugwambana
+# Hey 👋 I'm Muhluri Mugwambana
 
-### AI Engineer • Blockchain Developer • Founder of CapeChain Labs
+### Software Developer • AI Builder • Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C52D&center=true&vCenter=true&width=700&lines=Building+GenX+Blockchain;Creating+AI-Powered+Systems;Linux+Developer+%7C+Web3+Builder;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C52D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Automation+Builder;Linux+Power+User;Blockchain+Developer;Building+Modern+Software+Systems" />
 
 <br>
 
@@ -14,29 +14,24 @@
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```yaml
-Name: Muhluri Mugwambana
-Location: South Africa 🇿🇦
-Role: Founder @ CapeChain Labs
-Main Focus: AI + Blockchain + Software Engineering
-Current Project: GenX Blockchain
-```
+I'm a developer from South Africa passionate about building modern software systems, AI-powered tools, automation platforms, and scalable applications.
 
-I’m passionate about building futuristic systems that combine artificial intelligence, blockchain, automation, and scalable software engineering.
+I enjoy solving real-world problems through technology and constantly exploring new areas in software engineering, Linux systems, backend development, and emerging technologies.
 
-Currently focused on developing **GenX**, a next-generation blockchain ecosystem designed for creators, developers, and future digital economies.
+I’m currently focused on improving my engineering skills, building impactful projects, and collaborating with people creating the future of technology.
 
 ---
 
-# 🧠 Current Focus
+# 🚀 What I’m Working On
 
-* 🔭 Building the GenX Blockchain ecosystem
-* 🌱 Learning advanced backend architecture & AI systems
-* 🤝 Looking to collaborate on open-source and Web3 projects
-* 💬 Ask me about Linux, AI, crypto, backend development & startups
-* ⚡ Fun fact: I enjoy turning impossible ideas into real technology
+* 🤖 AI-powered systems and automation tools
+* 🌐 Full-stack web applications
+* ⚙️ Backend architecture & APIs
+* 🐧 Linux workflows and developer environments
+* 🔗 Blockchain & Web3 experiments
+* 📱 Cross-platform mobile and desktop apps
 
 ---
 
@@ -44,13 +39,13 @@ Currently focused on developing **GenX**, a next-generation blockchain ecosystem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,linux,docker,git,github,mongodb,mysql,firebase,java,rust,flutter,aws,bash,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,linux,docker,mongodb,mysql,firebase,java,rust,flutter,aws,git,github,bash,vscode,figma" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -70,7 +65,7 @@ Currently focused on developing **GenX**, a next-generation blockchain ecosystem
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -80,18 +75,13 @@ Currently focused on developing **GenX**, a next-generation blockchain ecosystem
 
 ---
 
-# 🚀 Featured Vision
+# 📈 Contribution Activity
 
-## 🧠 GenX Blockchain
+<div align="center">
 
-A creator-first blockchain ecosystem focused on:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MacJezzl1&theme=tokyo-night&hide_border=true" />
 
-* Ultra-low fees
-* AI integrations
-* NFT infrastructure
-* Meme coin creation
-* Developer freedom
-* Future decentralized applications
+</div>
 
 ---
 
@@ -107,47 +97,22 @@ A creator-first blockchain ecosystem focused on:
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://youtube.com">
-<img src="https://skillicons.dev/icons?i=youtube" />
-</a>
-
 <a href="mailto:mcjezzl@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MacJezzl1&theme=tokyo-night&hide_border=true" />
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🧠 Developer Mindset
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MacJezzl1/MacJezzl1/output/github-contribution-grid-snake-dark.svg" />
+> “I believe technology is most powerful when it solves real problems and inspires new possibilities.”
 
 </div>
-
----
-
-# 🧠 Philosophy
-
-<div align="center">
-
-> “The future belongs to builders who create what others think is impossible.”
-
-</div>
-
